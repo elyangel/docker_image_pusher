@@ -3,7 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-allanpk716/chinesesubfinder
-b3log/siyuan
-zishuo/embyserver
-xinjiawei1/emby_unlockd
+
+jellyfin/jellyfin
