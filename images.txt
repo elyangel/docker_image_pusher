@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 lmk123/migpt-server:latest
-
+idootop/mi-gpt:latest
